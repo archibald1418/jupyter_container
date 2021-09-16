@@ -1,7 +1,7 @@
 # jupyter_container
 Remote access to Jupiter notebook server using Docker on Mac OS
 
-##Getting started
+## Getting started
 
 * Download Docker here https://docs.docker.com/desktop/mac/install/
 * ```./run_container.sh```
